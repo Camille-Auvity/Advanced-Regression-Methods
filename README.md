@@ -74,10 +74,10 @@ A lower RMSE indicates a more accurate and stable predictive model.
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 **Camille Auvity**  
-📧 Email: [caauvity@orange.fr]  
+Email: [caauvity@orange.fr]  
 
 ---
 
